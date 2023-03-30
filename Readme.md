@@ -1,3 +1,4 @@
+This repository is the companion to the blog post here: https://lars-chen.github.io/rl-blog/learning-barrier-certificates/
 
 # -Installation- 
 1. First navigate to the directory you house CRABS in. Create a new Anaconda environment with python 3.9 to house the project with the right versions of software.
