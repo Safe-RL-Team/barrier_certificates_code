@@ -11,7 +11,7 @@ After downloading it, you will need to add it to Environmental Variables.
    > wandb disabled 
 
 or you can run wandb offline and upload runs later 
-   > wandb offline
+     > wandb offline
 
 4. Run `export PYTHONPATH=$PYTHONPATH:.`
 
